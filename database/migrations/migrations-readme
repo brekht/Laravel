@@ -1,0 +1,22 @@
+Default Laravel Migrations :: ----------------
+----------------------------------------------
+..._create_users_table.php
+..._create_password_resets_table.php
+----------------------------------------------
+
+Essences Migrations :: -----------------------
+----------------------------------------------
+..._create_essences_table.php
+..._create_num_property_table.php
+..._create_desc_property_table.php
+..._create_img_property_table.php
+..._create_freeproperties_table.php
+----------------------------------------------
+
+Articles Migrations :: -----------------------
+----------------------------------------------
+..._create_categories_table.php
+..._create_articles_table.php
+..._create_category_articles_table.php
+..._create_comments_table.php
+----------------------------------------------

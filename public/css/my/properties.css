@@ -1,0 +1,75 @@
+.alphaA {
+    float: left; clear: both; width: 100%;
+}
+
+.alphaB {
+    float: left; width: 70%;
+}
+
+.alphaC {
+    float: right; width: 30%;
+}
+
+.h5Standard {
+    padding-top: 10px; display: block; float: right; color: #e0666a;
+}
+
+.h5Free {
+    padding-top: 10px; display: block; float: right; color: #4aa5e0;
+}
+
+.bgcA {
+    background-color: #f8f8f8;
+}
+
+.alphaD {
+    color: #8a8a8a; font-weight: lighter; background-color: #dadada;
+}
+
+.alpha210 {
+    width: 210px; color: #8a8a8a; font-weight: lighter; background-color: #dadada;
+}
+
+.alpha130 {
+    width: 130px; color: #8a8a8a; font-weight: lighter; background-color: #dadada;
+}
+
+.alpha100 {
+    width: 100px; color: #8a8a8a; font-weight: lighter; background-color: #dadada;
+}
+
+.widthS280 {
+    width: 280px; color: #e0666a;
+}
+
+.widthF280 {
+    width: 280px; color: #4aa5e0;
+}
+
+.colorS {
+    color: #e0666a;
+}
+
+.colorF {
+    color: #4aa5e0;
+}
+
+.alphaE {
+    padding: 5px; margin-left: 10%;
+}
+
+.alphaF {
+    padding: 5px; margin-top: 11px; margin-left: 10%;
+}
+
+.divBack {
+    float: left; padding-top: 5px; margin-bottom: 10px;
+}
+
+.linkBack {
+    margin-left: 25px; color: #3493ff;
+}
+
+.linkBack:hover {
+    color: #3187ec; text-decoration: none;
+}
